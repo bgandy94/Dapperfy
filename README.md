@@ -5,7 +5,7 @@ Script generation helper for Dapper .NET core and .NET 4.6
 1. CRUD Script generation based on C# models.
 2. Custom attributes to notify the library of a Primary Key
 
-##Usage
+## Usage
  1. Add Dapperfy to your current project (obviously one of the requirements of using Dapperfy is to have Dapper installed.)
  2. Create a model to be used by Dapper that matches your table in the database. Ex below:
  ```
