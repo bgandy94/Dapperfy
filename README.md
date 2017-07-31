@@ -29,8 +29,5 @@ Script generation helper for Dapper .NET core and .NET 4.6
  ```
  4. You should be setup! Dapperfy can be called directly from your code to generate the queries that will be used by Dapper. Ex below:
  ```
-        string script = Dapperfy.Add(customer);
-        con.Open();
-        var returnPK = con.ExecuteScalar<int>(script);
-        return returnPK;
+        string script = Dapperfy.Add(customer)
  ```
