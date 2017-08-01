@@ -7,7 +7,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{D8E217BA-2262-4535-AE27-CB9C81980A73}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <RootNamespace>Dapperfy-old</RootNamespace>
+    <RootNamespace>Dapperfyold</RootNamespace>
     <AssemblyName>Dapperfy-old</AssemblyName>
     <DefaultLanguage>en-US</DefaultLanguage>
     <FileAlignment>512</FileAlignment>
