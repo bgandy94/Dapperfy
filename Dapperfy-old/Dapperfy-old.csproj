@@ -7,8 +7,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{D8E217BA-2262-4535-AE27-CB9C81980A73}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <RootNamespace>Dapperfy</RootNamespace>
-    <AssemblyName>Dapperfy</AssemblyName>
+    <RootNamespace>Dapperfy-old</RootNamespace>
+    <AssemblyName>Dapperfy-old</AssemblyName>
     <DefaultLanguage>en-US</DefaultLanguage>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{786C830F-07A1-408B-BD7F-6EE04809D6DB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
