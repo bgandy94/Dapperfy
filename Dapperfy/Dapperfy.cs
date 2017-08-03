@@ -24,7 +24,7 @@ namespace Dapperfy
         /// <returns></returns>
         public static string GetAll<T>() where T : class
         {
-            return GenerateStarSelectQuery($"{typeof(T).GetType()}s");
+            return GenerateStarSelectQuery($"{typeof(T)}s");
         }
 
         /// <summary>
